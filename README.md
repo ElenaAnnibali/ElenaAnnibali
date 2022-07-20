@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElenaAnnibali
 - 👀 I’m interested in Web Development, 
 - 🌱 I’m currently learning React, React Native, TypeScript and GraphQL
-- 💞️ I’m looking to collaborate on mobile application projects 
+- 💞️ I’m looking for a job as a frontend developer
 - 📫 How to reach me on twitter: @elena_annibali 
 
 <!---
